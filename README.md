@@ -1,5 +1,5 @@
 # Cyclic-Redundancy-Check-CRC
-Implementation of a CRC algorithm (networking) on a virtual communication between a sender and a receiver.
+Implementation of a CRC algorithm (networking) on a virtual communication between a sender and a receiver, written in C++.
 <pre>
 Give n:
 16
